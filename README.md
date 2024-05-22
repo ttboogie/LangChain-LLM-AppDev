@@ -1,9 +1,5 @@
 # LangChain-LLM-AppDev
 
-Absolutely, here's a more detailed version of the `README.md` that includes additional explanations for the various code pieces, setup instructions, and running the script with specific file types.
-
-# Data Analysis Tool using LangChain
-
 This project provides a comprehensive data analysis tool leveraging LangChain, OpenAI, and various Python libraries. The tool enables users to load data, clean it, and perform various analysis techniques based on user input.
 
 ## Table of Contents
